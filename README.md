@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--START_SECTION:metrics-->
-![Metrics](/github-metrics.svg)
 <!--END_SECTION:metrics-->
 
 
