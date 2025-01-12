@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:metrics-->
+![Metrics](/github-metrics.svg)
 <!--END_SECTION:metrics-->
+
 
 <!--
 **fmontesdev/fmontesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
